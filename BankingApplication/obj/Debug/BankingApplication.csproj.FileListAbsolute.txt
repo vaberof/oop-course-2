@@ -1,0 +1,8 @@
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.AssemblyReference.cache
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\vaber\source\repos\c#Labs\semester4\lab2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
